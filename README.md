@@ -1,2 +1,0 @@
-# laughing-journey
-coursera repository
